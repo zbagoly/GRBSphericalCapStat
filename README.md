@@ -1,4 +1,4 @@
-# GRBSphericalCapStat REAMDE ;-) 
+# GRBSphericalCapStat README 
 
 Code for 'REFERENCE HERE', originated from the code also developed for the article:
 @Article{universe8070342,
