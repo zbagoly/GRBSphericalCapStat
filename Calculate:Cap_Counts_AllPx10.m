@@ -23,6 +23,8 @@ healpix_file="HPIX/pixel_coords_map_nested_galactic_res6_xyz.bdat";
 % Input file is created by Init:Create_Input_Files.m
 % Input positional file is the command line arg(1) parameter. The file contains the (real or simulated) 
 % grb_xyz array.  
+% E.g. 
+% /home/zsolt $ Calculate:Cap_Counts_AllPx10.m GRB+SIM/data_file:00000.bdat
 % Serial number tells the type (0: original data, 1:1000 :simulations), not used here 
 arg_list = argv(); grb_file=sscanf(arg_list{1},"%s"); 
 
