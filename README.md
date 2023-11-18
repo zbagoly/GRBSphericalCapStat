@@ -1,6 +1,6 @@
 # GRBSphericalCapStat README 
 
-Code for 'REFERENCE HERE', originated from the code also developed for the article:
+Code for 'REFERENCE HERE', originated from the code developed for the article:
 @Article{universe8070342,
 AUTHOR = {Bagoly, Zsolt and Horvath, István and Racz, István I. and Balázs, Lajos G. and Tóth, L. Viktor},
 TITLE = {The Spatial Distribution of Gamma-Ray Bursts with Measured Redshifts from 24 Years of Observation},
