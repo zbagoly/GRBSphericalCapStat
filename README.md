@@ -22,7 +22,7 @@ To run in current form:
  
 - initialize the data with Init:Create_Input_Files.m
 
-- do the calculations with Calculate:Cap_Counts_AllPx10
+- do the calculations with Calculate:Cap_Counts_AllPx10.m
 
 - analyze the results with Process:S2CAPout_AllPx10.m
 
