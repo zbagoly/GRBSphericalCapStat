@@ -2,7 +2,7 @@
 
 % You should initialize with Init:Create_Input_Files.m , do the calculations with
 % Calculate:Cap_Counts_AllPx10.m and analyze the results with Process:S2CAPout_AllPx10.m
-% 'REFERENCE HERE'
+% 'MNRAS REFERENCE HERE'
 
 % This program is for preparing the input data 
 

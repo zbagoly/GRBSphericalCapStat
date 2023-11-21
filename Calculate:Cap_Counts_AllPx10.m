@@ -2,7 +2,7 @@
 
 % You should initialize with Init:Create_Input_Files.m , do the calculations with
 % Calculate:Cap_Counts_AllPx10.m and analyze the results with Process:S2CAPout_AllPx10.m
-% 'REFERENCE HERE'
+% 'MNRAS REFERENCE HERE'
 
 % This program calculates the maximum number of GRBs in a given redshift range and sperical cap size 
 
@@ -11,10 +11,10 @@
 % INPUT DATA START
 
 % Base parameters 
-CAP_RANGE=0.02:0.01:1.80 ; % SPHERICAL CAP are divided by pi  
+CAP_RANGE=0.02:0.01:1.20 ; % SPHERICAL CAP are divided by pi  
 			   % !!WARNING: we impicitly assume everywhere that the step size is 0.01!! 
 
-WINDOW_RANGE= 2:1:135; % WINDOW size in the redshift space
+WINDOW_RANGE= 2:1:120; % WINDOW size in the redshift space
 
 % Healpix grid centers N=6
 % This file is created by Init:Create_Input_Files.m

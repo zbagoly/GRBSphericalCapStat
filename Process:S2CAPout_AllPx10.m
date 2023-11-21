@@ -2,7 +2,7 @@
 
 % You should initialize with Init:Create_Input_Files.m , do the calculations with
 % Calculate:Cap_Counts_AllPx10.m and analyze the results with Process:S2CAPout_AllPx10.m
-% 'REFERENCE HERE'
+% 'MNRAS REFERENCE HERE'
 
 % This program aggrevates the Calculate:Cap_Counts_AllPx10.m output results from the S2CAPout/GRB+SIM/ directory 
 % Data file should be like
@@ -18,11 +18,11 @@ SIMULATION_RANGE=0:1000;
 
 % Cap area sizes are divided by pi. 
 % WARNING: we implicitly assume that the step size is 0.01 !! 
-CAP_RANGE=0.02:0.01:1.80 ; 
+CAP_RANGE=0.02:0.01:1.20 ; 
 NCAP=max(floor(CAP_RANGE./0.01+0.5) );
 
 % Window size in the redshift space
-WINDOW_RANGE= 2:1:135; 
+WINDOW_RANGE= 2:1:120; 
 
 % Area selection: [galactic South, All, galactic North]
 for area_selector=[-1 0 1]
