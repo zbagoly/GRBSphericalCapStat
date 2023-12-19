@@ -2,7 +2,7 @@
 
 This code is licenced under GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007.
 
-Code used for article 'REFERENCE HERE', originated from the code developed for the article
+Code used for article http://arxiv.org/abs/2312.10050 , originated from the code developed for the article
 @Article{universe8070342,
 AUTHOR = {Bagoly, Zsolt and Horvath, István and Racz, István I. and Balázs, Lajos G. and Tóth, L. Viktor},
 TITLE = {The Spatial Distribution of Gamma-Ray Bursts with Measured Redshifts from 24 Years of Observation},

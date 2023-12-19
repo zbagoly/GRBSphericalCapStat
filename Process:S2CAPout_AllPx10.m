@@ -2,7 +2,7 @@
 
 % You should initialize with Init:Create_Input_Files.m , do the calculations with
 % Calculate:Cap_Counts_AllPx10.m and analyze the results with Process:S2CAPout_AllPx10.m
-% 'MNRAS REFERENCE HERE'
+% You should reference the article: http://arxiv.org/abs/2312.10050
 
 % This program aggrevates the Calculate:Cap_Counts_AllPx10.m output results from the S2CAPout/GRB+SIM/ directory 
 % Data file should be like
